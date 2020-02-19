@@ -5,7 +5,7 @@ To run uwget tool inside docker container.
 Can be useful to do some diagnostics/testing inside a docker environment where an uwsgi container is running without the 'http' module.
 
 ## uwget
-uwget(https://github.com/m-messiah/uwget) is a simple tool to do requests with [uWSGI protocol](https://uwsgi-docs.readthedocs.io/en/latest/Protocol.html).
+[uwget](https://github.com/m-messiah/uwget) is a simple tool to do requests with [uWSGI protocol](https://uwsgi-docs.readthedocs.io/en/latest/Protocol.html).
 
 ## Example
 
